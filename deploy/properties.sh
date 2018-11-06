@@ -1,6 +1,6 @@
 #/bin/bash
 
-project_folder='yunding-transfer'
+project_folder='transfer'
 project_name='admin'
 
 
